@@ -1,3 +1,3 @@
 ```
-git run ./cli
+go run ./cli
 ```
